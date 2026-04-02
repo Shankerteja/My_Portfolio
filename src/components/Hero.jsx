@@ -17,7 +17,7 @@ const Hero = () => {
               Hello, I'm
             </h2>
             <h1 className="text-4xl sm:text-6xl font-bold">
-              <span className="cyan-gradient">Shankerteja Baki</span>
+              <span className="cyan-gradient">Shankarteja Baki</span>
             </h1>
             <p className="text-xl sm:text-2xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto sm:mx-0">
               MERN Stack Developer crafting beautiful and functional web experiences
